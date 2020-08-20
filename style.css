@@ -19,7 +19,7 @@ body{
   
 
  .container{
-    width: 400px;
+    width: 350px;
     height:500px;
     display: flex;
     flex-direction: column;
@@ -91,6 +91,7 @@ p3{
       outline: 0;
       background: transparent;
       border-bottom: 1px solid black;
+      
  }
 
  a {
